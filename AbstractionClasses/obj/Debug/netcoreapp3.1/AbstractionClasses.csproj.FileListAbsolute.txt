@@ -1,0 +1,12 @@
+/Users/rivss/Projects/csharp/AbstractionClasses/AbstractionClasses/bin/Debug/netcoreapp3.1/AbstractionClasses.deps.json
+/Users/rivss/Projects/csharp/AbstractionClasses/AbstractionClasses/bin/Debug/netcoreapp3.1/AbstractionClasses.runtimeconfig.json
+/Users/rivss/Projects/csharp/AbstractionClasses/AbstractionClasses/bin/Debug/netcoreapp3.1/AbstractionClasses.runtimeconfig.dev.json
+/Users/rivss/Projects/csharp/AbstractionClasses/AbstractionClasses/bin/Debug/netcoreapp3.1/AbstractionClasses.dll
+/Users/rivss/Projects/csharp/AbstractionClasses/AbstractionClasses/bin/Debug/netcoreapp3.1/AbstractionClasses.pdb
+/Users/rivss/Projects/csharp/AbstractionClasses/AbstractionClasses/obj/Debug/netcoreapp3.1/AbstractionClasses.csprojAssemblyReference.cache
+/Users/rivss/Projects/csharp/AbstractionClasses/AbstractionClasses/obj/Debug/netcoreapp3.1/AbstractionClasses.AssemblyInfoInputs.cache
+/Users/rivss/Projects/csharp/AbstractionClasses/AbstractionClasses/obj/Debug/netcoreapp3.1/AbstractionClasses.AssemblyInfo.cs
+/Users/rivss/Projects/csharp/AbstractionClasses/AbstractionClasses/obj/Debug/netcoreapp3.1/AbstractionClasses.csproj.CoreCompileInputs.cache
+/Users/rivss/Projects/csharp/AbstractionClasses/AbstractionClasses/obj/Debug/netcoreapp3.1/AbstractionClasses.dll
+/Users/rivss/Projects/csharp/AbstractionClasses/AbstractionClasses/obj/Debug/netcoreapp3.1/AbstractionClasses.pdb
+/Users/rivss/Projects/csharp/AbstractionClasses/AbstractionClasses/obj/Debug/netcoreapp3.1/AbstractionClasses.genruntimeconfig.cache
