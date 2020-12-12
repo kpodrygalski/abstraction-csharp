@@ -9,5 +9,6 @@ namespace AbstractionClasses
         }
 
         public abstract double ObliczPole();
+        public abstract double ObliczObwod();
     }
 }

@@ -14,5 +14,10 @@ namespace AbstractionClasses
         {
             return Math.Pow(BokA, 2);
         }
+
+        public override double ObliczObwod()
+        {
+            return 4 * BokA;
+        }
     }
 }
