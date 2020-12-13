@@ -17,7 +17,6 @@ namespace AbstractionClasses
             Console.WriteLine("CIRCLE: ");
             Console.WriteLine(circle.ObliczPole());
             Console.WriteLine(circle.ObliczObwod());
-            
         }
     }
 }
